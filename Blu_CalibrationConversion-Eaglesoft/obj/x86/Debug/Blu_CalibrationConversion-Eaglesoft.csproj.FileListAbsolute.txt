@@ -1,0 +1,8 @@
+C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\bin\x86\Debug\Blu_CalibrationConversion.exe.config
+C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\bin\x86\Debug\Blu_CalibrationConversion.exe
+C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\bin\x86\Debug\Blu_CalibrationConversion.pdb
+C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Debug\Blu_CalibrationConversion-Eaglesoft.csproj.AssemblyReference.cache
+C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Debug\Blu_CalibrationConversion-Eaglesoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Debug\Blu_CalibrationConversion-Eaglesoft.csproj.CoreCompileInputs.cache
+C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Debug\Blu_CalibrationConversion.exe
+C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Debug\Blu_CalibrationConversion.pdb
