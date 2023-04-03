@@ -6,3 +6,19 @@ C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\B
 C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion-Eaglesoft.csproj.CoreCompileInputs.cache
 C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion.exe
 C:\Users\JPetko\Repos\Digital Doc Projects\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion.pdb
+C:\Users\JPetko\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\bin\x86\Release\Blu_CalibrationConversion.exe.config
+C:\Users\JPetko\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\bin\x86\Release\Blu_CalibrationConversion.exe
+C:\Users\JPetko\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\bin\x86\Release\Blu_CalibrationConversion.pdb
+C:\Users\JPetko\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion-Eaglesoft.csproj.AssemblyReference.cache
+C:\Users\JPetko\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion-Eaglesoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\JPetko\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion-Eaglesoft.csproj.CoreCompileInputs.cache
+C:\Users\JPetko\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion.exe
+C:\Users\JPetko\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion.pdb
+G:\Other computers\My Computer\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\bin\x86\Release\Blu_CalibrationConversion.exe.config
+G:\Other computers\My Computer\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\bin\x86\Release\Blu_CalibrationConversion.exe
+G:\Other computers\My Computer\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\bin\x86\Release\Blu_CalibrationConversion.pdb
+G:\Other computers\My Computer\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion-Eaglesoft.csproj.AssemblyReference.cache
+G:\Other computers\My Computer\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion-Eaglesoft.csproj.SuggestedBindingRedirects.cache
+G:\Other computers\My Computer\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion-Eaglesoft.csproj.CoreCompileInputs.cache
+G:\Other computers\My Computer\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion.exe
+G:\Other computers\My Computer\Repos\Blu\Blu_CalibrationConversion-Eaglesoft\Blu_CalibrationConversion-Eaglesoft\obj\x86\Release\Blu_CalibrationConversion.pdb
